@@ -16,7 +16,7 @@
 <p align="center">
   <a href="www.linkedin.com/in/sandesh-r-gowda-9325bb339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sandygowda659@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SandyGowda-op/SandyGowda-op/blob/main/SandeshRGowda_Resume_HardwareEngineer%20(3).pdf"><img src="https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://github.com/SandyGowda-op/SandyGowda-op/blob/main/Sandesh_R_Gowda_Resume_.pdf"><img src="https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SandyGowda-op&style=for-the-badge&color=2F81F7&label=profile+views" />
 </p>
 

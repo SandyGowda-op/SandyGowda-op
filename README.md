@@ -55,7 +55,7 @@
 - **3** negative controls that fail without their fix
 - **23 / 23** regression checks, **50 / 50** random seeds
 - Sparse vs dense: **1.80×** faster compute, **1.35×** per job
-- Dispatch control ≈ **1.3 %** of accelerator area (Nangate45)
+- Dispatch control ≈ **2.7 %** of accelerator logic area, **≥171 MHz** (Nangate45)
 
 </td>
 </tr>

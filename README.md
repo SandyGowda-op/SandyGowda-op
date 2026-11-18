@@ -5,7 +5,7 @@
      and view counter, which are images from free public services.
      =================================================================== -->
 
-<h1 align="center">Hi, I'm {{FULL_NAME}} 👋</h1>
+<h1 align="center">Hi, I'm Sandesh R Gowda 👋</h1>
 
 <p align="center">
   <a href="https://github.com/SandyGowda-op">
@@ -24,12 +24,12 @@
 
 ### 🧠 About me
 
-- 🎓 {{DEGREE}} in {{BRANCH}} at **{{COLLEGE}}** ({{GRAD_YEAR}})
+- 🎓 B.E in EEE at **BMSCE** 2027
 - 🔧 I build and verify digital hardware for machine learning: RISC-V CPUs, matrix accelerators, and the CPU↔accelerator interface between them
 - 🔬 What I care about: proving a fix works by showing the test **fails without it** (negative controls)
 - 🌱 Currently: turning NeuroCore into a small NPU: result write-back, K-tile accumulation, and a compiler that picks dense vs 2:4-sparse per tile
-- 🎯 Looking for: {{ROLE}} (e.g. RTL design / design verification internships)
-- 📍 {{CITY}}, India
+- 🎯 Interested in: RTL design / design verification internships
+- 📍 BANGALORE, India
 
 ---
 

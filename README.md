@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sandesh-r-gowda-9325bb339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sandygowda659@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="{{RESUME_URL}}"><img src="https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SandyGowda-op&style=for-the-badge&color=2F81F7&label=profile+views" />
 </p>
@@ -157,4 +157,4 @@ flowchart LR
 
 </details>
 
-<p align="center"><sub>Built with plain Markdown · last updated {{MONTH_YEAR}}</sub></p>
+<p align="center"><sub>Built with plain Markdown · last updated Nov 2026</sub></p>
